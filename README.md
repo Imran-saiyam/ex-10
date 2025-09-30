@@ -43,3 +43,5 @@ disp(z1); disp(p1); disp(k1);
 
 disp('Zeros, Poles, and Gain of 9-point MAF:');
 disp(z2); disp(p2); disp(k2);# ex-10
+
+![image](
